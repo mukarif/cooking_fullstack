@@ -8,14 +8,14 @@ migrate DB
 php artisan migrate
 ```
 Run project
-'''
+```
 php artisan serve
-'''
+```
 
 akses URL
-'''
+```
 http://localhost:8000/
-'''
+```
 
 ## Installation Django
 Ubuntu atau Bash Terminal:
@@ -50,6 +50,6 @@ runing Project
 
 
 akses URL
-'''
+```
 http://localhost:8001/
-'''
+```

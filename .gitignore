@@ -1,0 +1,15 @@
+frontend_cooking/venv/
+
+frontend_cooking/dash/static
+frontend_cooking/dash/static/
+frontend_cooking/dash/media/
+frontend_cooking/dash/settings_local.py
+runserver.py
+frontend_cooking/dash/nginx_waitress/webproject_nginx.conf
+frontend_cooking/dash/dash/wsgi.py
+frontend_cooking/dash/celerybeat-schedule.bak
+frontend_cooking/dash/celerybeat-schedule.dat
+frontend_cooking/dash/celerybeat-schedule.dir
+.DS_Store
+
+/cooking-project/storage/*
